@@ -1,0 +1,25 @@
+.img {
+     border-radius: 50%;
+}
+.card {
+     position: relative;
+}
+.cote_left {
+     background-image: url("../../Assets/Icon\ metro-quote_left.svg");
+     background-repeat: no-repeat;
+     z-index: 1;
+     width: 100px;
+     height: 100px;
+     position: relative;
+     margin: -85px 0px;
+     /* top: -20px; */
+}
+.cote_right {
+     background-image: url("../../Assets/Icon\ metro-quote_right.svg");
+     background-repeat: no-repeat;
+     z-index: 1;
+     width: 100px;
+     height: 100px;
+     position: relative;
+     margin: -16px 93.5%;
+}

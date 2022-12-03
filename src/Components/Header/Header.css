@@ -1,0 +1,44 @@
+.conteneur_header {
+     /* position: relative; */
+     background-image: url('../../Assets/Exclusion\ .svg');
+     background-repeat: no-repeat;
+     background-position: right top;
+     /* overflow: hidden; */
+     margin: 0;
+}
+.img_protrait {
+     transform: matrix(-1,0,0,1,0,0) ;
+     z-index: 1;
+}
+.title {
+     color: #1d2b4f;
+}
+.para {
+     font-size: 18px;
+     color: #3d5ab0;line-height: 28px;
+     margin: 30px 0;
+     font-weight: 400;
+}
+.bg_img_left {
+     background-image: url('../../Assets/left-exclusion.svg');
+     background-repeat: no-repeat;
+     background-position:  left 120%;
+     position: relative;
+     /* top: -60px; */
+     /* margin-top: 50px; */
+}
+
+
+/* <Navbar className="py-4 px-5">
+        
+          <Navbar.Brand href="#home" className="d-flex align-items-center">
+            <img
+              src={imgLogo}
+              width="40"
+              height="40"
+              className="d-inline-block align-top"
+              alt="React Bootstrap logo"
+            />
+            <div className="mx-3">Sigma <span className="d-block">Clinic</span></div>
+          </Navbar.Brand>
+      </Navbar> */

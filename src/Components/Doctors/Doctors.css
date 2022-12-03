@@ -1,0 +1,10 @@
+.cards_doctors {
+     border: none;
+}
+.conteneur_img {
+     height: 350px ;
+}
+.conteneur_img .image {
+     height: 350px;
+     object-fit: cover;
+}

@@ -1,0 +1,10 @@
+.footer {
+     background-image: url('../../Assets/DesignCirclesFooter.svg');
+     background-repeat: no-repeat;
+     background-position: left bottom;
+     margin: 0;
+}
+.portrait_img {
+     transform: matrix(-1,0,0,1,0,0) ;
+     z-index: 1;
+}
